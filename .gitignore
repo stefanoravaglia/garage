@@ -1,3 +1,14 @@
+# latex
+*.aux
+*.fdb*
+*.fls
+*.synctex.gz
+*.xdv
+
+# <<<<<<<<<<<<< PDF >>>>>>>>>>>>>>>
+*.pdf
+# <<<<<<<<<<<<< PDF >>>>>>>>>>>>>>>
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

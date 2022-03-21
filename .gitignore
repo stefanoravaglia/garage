@@ -9,6 +9,9 @@
 *.pdf
 # <<<<<<<<<<<<< PDF >>>>>>>>>>>>>>>
 
+# <<<<<<<<<<<<< out dir >>>>>>>>>>>
+out/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
